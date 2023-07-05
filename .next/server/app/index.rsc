@@ -1,0 +1,7 @@
+0:["rEZpaYq0JSh8fUBwkmfN-",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],["$L2",null]]]]]
+3:HL["/_next/static/css/3644efc0be106ace.css",{"as":"style"}]
+4:I{"id":3211,"chunks":["272:static/chunks/webpack-f54d6572bde45c7d.js","253:static/chunks/bce60fc1-85653116803f8735.js","769:static/chunks/769-a58bdaa0c2b444c4.js"],"name":"default","async":false}
+5:I{"id":5767,"chunks":["272:static/chunks/webpack-f54d6572bde45c7d.js","253:static/chunks/bce60fc1-85653116803f8735.js","769:static/chunks/769-a58bdaa0c2b444c4.js"],"name":"default","async":false}
+6:I{"id":3863,"chunks":["931:static/chunks/app/page-5ada50c243f840b5.js"],"name":"","async":false}
+1:[["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-slate-800 text-slate-100 container mx-auto p-4","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","$L6",null,{}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3644efc0be106ace.css","precedence":"next"}]]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"WipApprove"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
